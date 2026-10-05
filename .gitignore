@@ -1,0 +1,17 @@
+# Arquivos CSV
+*.csv
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente/credenciais
+.env
+.env.*
+
+# Configurações do VS Code
+.vscode/
